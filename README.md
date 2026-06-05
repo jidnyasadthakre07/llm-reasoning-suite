@@ -390,7 +390,7 @@ AQI_Model_Results.csv
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/llm-reasoning-suite.git
+git clone https://github.com/jidnyasadthakre07/llm-reasoning-suite.git
 
 cd llm-reasoning-suite
 ```
