@@ -528,7 +528,7 @@ This project showcases how Large Language Models can be used as reasoning engine
 
 ## Author
 
-**Your Name**
+**Jidnyasa Thakre**
 
 GitHub: https://github.com/jidnyasadthakre07
 
