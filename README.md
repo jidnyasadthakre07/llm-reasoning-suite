@@ -530,6 +530,6 @@ This project showcases how Large Language Models can be used as reasoning engine
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/jidnyasadthakre07
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
