@@ -79,7 +79,7 @@ Best Hyperparameter Recommendation
 # 📂 Repository Structure
 
 ```text
-TASK1/
+llm-reasoning-suite/
 │
 ├── app_task1.py              # CoT Sentiment Analysis App
 ├── app_task2.py              # ToT Hyperparameter Analysis App
